@@ -1,0 +1,17 @@
+BOM for the EZStruder mounting Kit for Rostock MAX
+
+
+
+SeeMeCNC PN#	QTY	Description
+
+70771	1	EZSpool Part A
+70772	1	EZSpool Part B
+70773	2	EZSpool Arm
+70774	1	EZSpool Part C
+30034	1	6-32 x 1.75" Phillips Screw
+30037	1	6-32 x 2.0" Phillips Screw
+30164	9	6-32 Nylon Lock Nut
+70777	1	EZStruder Motor Mount
+70770	1	EZStruder Brace for Motor Mount
+70769	3	EZStruder Spacer for Motor Mount
+30132	7	6-32 x 1" Phillips Screw	
