@@ -1,0 +1,20 @@
+EZStruder by SeeMeCNC BOM
+
+SeeMeCNC 
+PN#	qty	description
+
+30250	3	#4 x 3/8" pan head phillips sheetmetal screw
+30308	1	M3x.5 - 18mm Phillips screw
+30318	3	M3x.5 - 10mm Phillips screw
+30449	1	#4 SAE Flat Washer
+31248	1	Compression Spring,.300" OD x 1.00"L x .045 wire dia.
+35001	1	1/8" ID x 3/8" OD x .156" (R2ZZ) Ball Bearing
+70781	1	Drive Base Plate
+70782	1	Direct Drive Hobbed Roller
+70783	1	Arm for EZStruder
+70784	1	Hot End Mount PART A 
+70785	1	Clear ABS Cover 
+70786	1	Hot End Moun PART B
+70788	1	Aluminum Bowden PTC adapter for M5 threads
+30132	2	6-32 x 1" Phillips screw
+30164	2	6-32 Nylon Lock Nut	

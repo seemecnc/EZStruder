@@ -5,6 +5,10 @@ SeeMeCNC EZStruder ReadMe
 Open-Source initial release date: 5/8/2013
 ############################################################
 
+
+See BOM for parts/hardware required
+
+
 Changelog:
 
 5/8/2013
